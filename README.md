@@ -1,1 +1,1 @@
-Hello, I am Kapil Singh.
+Hello, my name is Kapil Singh. I am from Bharatpur, Rajasthan, and currently pursuing my studies at NIT Jalandhar. I have a strong interest in coding, particularly in Verilog, and possess solid problem-solving skills in Data Structures and Algorithms. Additionally, I am familiar with the fundamental concepts of Machine Learning.
